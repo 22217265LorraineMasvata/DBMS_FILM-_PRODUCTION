@@ -39,15 +39,15 @@ The system have the following tables:
 Automatically insert the new film into the production table
 
 ### Fuctions Examples
-Calculates total salaries grouped by cast/crew role type
-Calculates film budget of the films produced in the same studio
-Gets information of the equipment based on studio prodeced and equipment type
+- Calculates total salaries grouped by cast/crew role type
+- Calculates film budget of the films produced in the same studio
+- Gets information of the equipment based on studio prodeced and equipment type
 
 ### Queries
-Budget analysis and Revenue statistics
-Cast and creww report
-Film production tracking
-Equipment rental report
+- Budget analysis and Revenue statistics
+- Cast and creww report
+- Film production tracking
+- Equipment rental report
 
 ## How to Run the Project
 1. Open Supabase SQL Editor
